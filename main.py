@@ -4,7 +4,7 @@ import sys
 
 # --- Configuration ---
 # Replace with the actual path to your video file
-video_file = "/workspaces/LV/Minecraft CRACKED SMP LIVE ｜｜ PUBLIC SMP 24⧸7 JAVA｜｜ ｜Illmatic Smp.mp4"  # Make sure this path is correct!
+video_file = "Ip is (1) (1).mp4"  # Make sure this path is correct!
 
 # Your audio stream URL
 audio_url = "http://stream.zeno.fm/9kaed9hws98uv"
